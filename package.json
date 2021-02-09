@@ -1,0 +1,24 @@
+{
+  "name": "quick-typescript",
+  "version": "1.0.0",
+  "description": "1. Abstração:\r 2. Encapsulamento: Proteger os dados\r 3. Herança: Reutilizar código\r 4. Polimorfismo:",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wellpinho/quick-typescript.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wellpinho/quick-typescript/issues"
+  },
+  "homepage": "https://github.com/wellpinho/quick-typescript#readme",
+  "dependencies": {
+    "@types/prompt-sync": "^4.1.0",
+    "prompt-sync": "^4.2.0"
+  }
+}
